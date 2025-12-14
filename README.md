@@ -1,6 +1,6 @@
 # Learning_Python-for-Beginners
 
-This Repository has been created to teach newbies about Python
+This Repository has been created to teach newbies about Python covering the following concepts and adding additional ones depending on the student requirements:-
 
 Starter Kits for Python:-
 
@@ -22,7 +22,7 @@ Basic Python Concepts:-
 
 - Basic Syntax and Rules
 - Variables
-- Data Types
+- Data Types (Integer, Float, Boolean, String, Complex Numbers)
 - Concatenation
 - Type Casting
 - User Inputs
@@ -36,11 +36,42 @@ Basic Python Concepts:-
 
 Intermediate Python Concepts:-
 
-- Loops
+- Loops 
+- - For Loop
+  - While Loop
+    
 - Conditional Statements
-- Data Structures- Functions
+- - If Statement
+- - Else-If
+  
+- Data Structures
+- - Lists
+  - Sets
+  - Tuples
+  - Dictionaries
+    
+- Functions
+  - With Parameters
+  - With Arguments
+  - Nested Functions
+    
 - Advanced Functions
+  - Lambda Function
+  - Recursive Function
+  - Mapping
+  - Filter
+  - Reduce
+  - Strip
+  - Zip
+    
 - Object Oriented Programming (OOP)
+- - Object
+  - Classes
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+    
 - Exception Handling
 - File Handling
 - Virtual Environment
@@ -51,6 +82,13 @@ Advanced Python Concepts:-
 - Web Frameworks
 - Desktop Applications
 - Data Structure and Algorithms
+  
+- - Linear DSA
+  - Linked Lists
+  - 
+
+  - Non Linear DSA
+    
 - Modules and Libraries
 - - NumPy
   - Pandas
