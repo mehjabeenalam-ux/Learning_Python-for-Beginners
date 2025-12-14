@@ -97,3 +97,12 @@ Advanced Python Concepts:-
   - Math
   - Request
   - Others
+
+- Computer Vision and Object Detection
+
+
+Python Resources:
+
+I am including links for various Python Resources I have followed or are following for my own learning journey!
+
+
