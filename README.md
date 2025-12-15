@@ -153,4 +153,32 @@ Jupyter NoteBook:- https://jupyter.org/
 
 I am including links for various Python Resources I have followed or are following for my own learning journey!
 
+Highly Recommended Websites for Tutorials and Mini Exercises:
+
+1. https://www.geeksforgeeks.org/
+2. https://www.pybeginners.com/
+3. https://www.w3schools.com/python/
+4. https://docs.python.org/3/tutorial/index.html (Official Python Website)
+5. https://www.learnpython.org/
+6. https://www.programiz.com/python-programming
+
+YouTube Resources:-
+
+1. Programming with Mosh: https://www.youtube.com/watch?v=K5KVEU3aaeQ
+2. Tech with Tim: https://www.youtube.com/c/TechWithTim
+
+
+**Visual Tutorial:**
+
+1. Google Colab: https://chromewebstore.google.com/detail/visual-python-for-colab/ccmkpknjfagaldcgidgcipbpdipfopob
+2. Log2base2:- https://log2base2.com/
+
+**Strategy and Tech related News:-**
+
+1. TechButmakeItReal:- https://www.youtube.com/@TechButMakeItReal
+
+2. Silicon Valley Girl:- https://www.youtube.com/channel/UCiq1FIgtEK7LRAOB1JXTPig
+
+
+
 
