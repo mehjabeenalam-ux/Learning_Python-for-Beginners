@@ -20,13 +20,13 @@ Official Website: https://docs.python.org/3/
 
 **1.4 Leveraging Cloud resources such as PyCharm, Cursor, Google CoLab and Jupyter NoteBook**
 
-**PyCharm:-** https://www.jetbrains.com/pycharm/download/
+- **PyCharm:-** https://www.jetbrains.com/pycharm/download/
 
-**Cursor:-** https://cursor.com/
+- **Cursor:-** https://cursor.com/
 
-**Google Colab:-** https://colab.research.google.com/
+- **Google Colab:-** https://colab.research.google.com/
 
-**Jupyter NoteBook:-** https://jupyter.org/
+- **Jupyter NoteBook:-** https://jupyter.org/
 
 **1.5 File and Folder Set Up for the VS Code**
 
