@@ -1,8 +1,8 @@
-# Learning_Python-for-Beginners
+# Learning_Python_for_Beginners
 
 This Repository has been created to teach newbies about Python covering the following concepts and adding additional ones depending on the student requirements:-
 
-Starter Kits for Python:-
+1. Starter Kits for Python:-
 
 - Desktop Visual Studio Code Editor Set Up and Downloading Python
 - Python Official Documentation
@@ -10,7 +10,7 @@ Starter Kits for Python:-
 - File and Folder Set Up
 - Basic Introduction of VS Code Editor Interface 
 
-Git and GitHub:- 
+2. Git and GitHub:- 
 
 - What is Git?
 - What is GitHub?
@@ -20,7 +20,7 @@ Git and GitHub:-
 
 Basic Python Concepts:-
 
-Basic Syntax and Rules
+1. Basic Syntax and Rules
 - - Indentation
   - Commenting out code documents two ways (# and CTRL + /)
 
@@ -56,71 +56,75 @@ Operators
   - Logical Operators
 
 
-Intermediate Python Concepts:-
+2. Intermediate Python Concepts:-
 
 Loops 
-- - For Loop
-  - While Loop
+- For Loop
+- While Loop
     
 Conditional Statements
-- - If Statement
-- - Else-If
+- If Statement
+-  Else-If
   
 Data Structures
-- - Lists
-  - Sets
-  - Tuples
-  - Dictionaries
+- Lists
+- Sets
+- Tuples
+- Dictionaries
     
 Functions
-  - With Parameters
-  - With Arguments
-  - Nested Functions
+- With Parameters
+- With Arguments
+- Nested Functions
     
 Advanced Functions
-  - Lambda Function
-  - Recursive Function
-  - Mapping
-  - Filter
-  - Reduce
-  - Strip
-  - Zip
+- Lambda Function
+- Recursive Function
+- Mapping
+- Filter
+- Reduce
+- Strip
+- Zip
     
 Object Oriented Programming (OOP)
-- - Object
-  - Classes
-  - Encapsulation
-  - Inheritance
-  - Polymorphism
-  - Abstraction
+- Object
+- Classes
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
     
-- Exception Handling
-- File Handling
-- Virtual Environment
+Exception Handling
 
-Advanced Python Concepts:-
+File Handling
 
-- API
-- Web Frameworks
-- Desktop Applications
-- Data Structure and Algorithms
-  
-- - Linear DSA
+Virtual Environment
+
+3. Advanced Python Concepts:-
+
+API
+
+Web Frameworks
+
+Desktop Applications
+
+Data Structure and Algorithms
+- Linear DSA
   - Linked Lists
   - 
 
-  - Non Linear DSA
+- Non Linear DSA
     
-- Modules and Libraries
-- - NumPy
-  - Pandas
-  - Seaborn
-  - Matplotlib
-  - Math
-  - Request
-  - Others
+Modules and Libraries
+- NumPy
+- Pandas
+- Seaborn
+- Matplotlib
+- Math
+- Request
+- Others
 
-- Computer Vision and Object Detection
+Computer Vision and Object Detection
 
 
 Python Resources:
