@@ -38,6 +38,8 @@ Follow this Python Tutorial by Datalumina for VS Code and Python Installation:
 
 https://python.datalumina.com/getting-started
 
+**1.7: Code Formatting and Basic Code Writing Rules: ** https://python.datalumina.com/basics/formatting
+
 **2. Git and GitHub:-**
 
 - What is Git?
