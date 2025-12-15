@@ -22,7 +22,8 @@ Basic Python Concepts:-
 
 - Basic Syntax and Rules
 - - Indentation
-  -
+  - Commenting out code documents two ways (# and CTRL + /)
+  
 - Variables
 - - Conventions for naming Variables in Python
   
