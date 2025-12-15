@@ -2,7 +2,7 @@
 
 This Repository has been created to teach newbies about Python covering the following concepts and adding additional ones depending on the student requirements:-
 
-1. Starter Kits for Python:-
+**1. Starter Kits for Python:-**
 
 - Desktop Visual Studio Code Editor Set Up and Downloading Python
 - Python Official Documentation
@@ -10,7 +10,7 @@ This Repository has been created to teach newbies about Python covering the foll
 - File and Folder Set Up
 - Basic Introduction of VS Code Editor Interface 
 
-2. Git and GitHub:- 
+**2. Git and GitHub:- **
 
 - What is Git?
 - What is GitHub?
@@ -18,7 +18,7 @@ This Repository has been created to teach newbies about Python covering the foll
 - Integrating desktop based and cloud based Code Editors with GitHub
 - Why is Git and GitHub important?
 
-Basic Python Concepts:-
+**Basic Python Concepts:-**
 
 1. Basic Syntax and Rules
 - - Indentation
@@ -56,7 +56,7 @@ Operators
   - Logical Operators
 
 
-2. Intermediate Python Concepts:-
+**2. Intermediate Python Concepts:-**
 
 Loops 
 - For Loop
@@ -100,7 +100,7 @@ File Handling
 
 Virtual Environment
 
-3. Advanced Python Concepts:-
+**3. Advanced Python Concepts:-**
 
 API
 
@@ -127,7 +127,7 @@ Modules and Libraries
 Computer Vision and Object Detection
 
 
-Python Resources:
+**Python Resources:**
 
 I am including links for various Python Resources I have followed or are following for my own learning journey!
 
