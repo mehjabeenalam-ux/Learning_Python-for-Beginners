@@ -46,10 +46,10 @@ Jupyter NoteBook:- https://jupyter.org/
  - Indentation
  - Commenting out code documents two ways (# and CTRL + /)
 
-Variables
+1.2. Variables
 - Conventions for naming Variables in Python
   
-Data Types
+1.3 Data Types
  -- Integer
  -- Float
  -- Boolean
@@ -58,21 +58,21 @@ Data Types
 
 - Identifying Data Type
     
-- Concatenation
+1.4 Concatenation
   
-Type Casting
+1.5 Type Casting
   - Int to Float
   - Float to Integer
   - Int/Float to String
   - String to Int/Float
   - As Applicable
     
-User Inputs
+1.6 User Inputs
 
-Formatted Strings
+1.7 Formatted Strings
 
-Operators
-- - Assignment Operators
+1.8 Operators
+  - Assignment Operators
   - Arithmetic Operators
   - Comparison Operators
   - Logical Operators
@@ -80,26 +80,26 @@ Operators
 
 **2. Intermediate Python Concepts:-**
 
-Loops 
+2.1 Loops 
 - For Loop
 - While Loop
     
-Conditional Statements
+2.2 Conditional Statements
 - If Statement
 -  Else-If
   
-Data Structures
+2.3 Data Structures
 - Lists
 - Sets
 - Tuples
 - Dictionaries
     
-Functions
+2.4 Functions
 - With Parameters
 - With Arguments
 - Nested Functions
     
-Advanced Functions
+2.5 Advanced Functions
 - Lambda Function
 - Recursive Function
 - Mapping
@@ -108,7 +108,7 @@ Advanced Functions
 - Strip
 - Zip
     
-Object Oriented Programming (OOP)
+2.6 Object Oriented Programming (OOP)
 - Object
 - Classes
 - Encapsulation
@@ -116,28 +116,28 @@ Object Oriented Programming (OOP)
 - Polymorphism
 - Abstraction
     
-Exception Handling
+2.7 Exception Handling
 
-File Handling
+2.8 File Handling
 
-Virtual Environment
+2.9 Virtual Environment
 
 **3. Advanced Python Concepts:-**
 
-API
+3.1 API
 
-Web Frameworks
+3.2 Web Frameworks
 
-Desktop Applications
+3.3 Desktop Applications
 
-Data Structure and Algorithms
+3.4 Data Structure and Algorithms
 - Linear DSA
   - Linked Lists
   - 
 
 - Non Linear DSA
     
-Modules and Libraries
+3.5 Modules and Libraries
 - NumPy
 - Pandas
 - Seaborn
@@ -146,7 +146,7 @@ Modules and Libraries
 - Request
 - Others
 
-Computer Vision and Object Detection
+3.6 Computer Vision and Object Detection
 
 
 **Python Resources:**
