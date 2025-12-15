@@ -27,7 +27,7 @@ Basic Syntax and Rules
 Variables
 - - Conventions for naming Variables in Python
   
-- Data Types
+Data Types
  -- Integer
  -- Float
  -- Boolean
@@ -38,16 +38,18 @@ Variables
     
 - Concatenation
   
-- Type Casting
+Type Casting
   - Int to Float
   - Float to Integer
   - Int/Float to String
   - String to Int/Float
   - As Applicable
     
-- User Inputs
-- Formatted Strings
-- Operators
+User Inputs
+
+Formatted Strings
+
+Operators
 - - Assignment Operators
   - Arithmetic Operators
   - Comparison Operators
@@ -56,26 +58,26 @@ Variables
 
 Intermediate Python Concepts:-
 
-- Loops 
+Loops 
 - - For Loop
   - While Loop
     
-- Conditional Statements
+Conditional Statements
 - - If Statement
 - - Else-If
   
-- Data Structures
+Data Structures
 - - Lists
   - Sets
   - Tuples
   - Dictionaries
     
-- Functions
+Functions
   - With Parameters
   - With Arguments
   - Nested Functions
     
-- Advanced Functions
+Advanced Functions
   - Lambda Function
   - Recursive Function
   - Mapping
@@ -84,7 +86,7 @@ Intermediate Python Concepts:-
   - Strip
   - Zip
     
-- Object Oriented Programming (OOP)
+Object Oriented Programming (OOP)
 - - Object
   - Classes
   - Encapsulation
