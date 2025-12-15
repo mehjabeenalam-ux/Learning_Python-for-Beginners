@@ -32,7 +32,7 @@ Jupyter NoteBook:- https://jupyter.org/
 
 1.6 Basic Introduction of VS Code Editor Interface 
 
-****2. Git and GitHub:- ****
+**2. Git and GitHub:-**
 
 - What is Git?
 - What is GitHub?
@@ -43,11 +43,11 @@ Jupyter NoteBook:- https://jupyter.org/
 **Basic Python Concepts:-**
 
 1. Basic Syntax and Rules
-- - Indentation
-  - Commenting out code documents two ways (# and CTRL + /)
+ - Indentation
+ - Commenting out code documents two ways (# and CTRL + /)
 
 Variables
-- - Conventions for naming Variables in Python
+- Conventions for naming Variables in Python
   
 Data Types
  -- Integer
