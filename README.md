@@ -4,11 +4,25 @@ This Repository has been created to teach newbies about Python covering the foll
 
 **1. Starter Kits for Python:-**
 
-- Desktop Visual Studio Code Editor Set Up and Downloading Python
-- Python Official Documentation
-- Leveraging Cloud resources such as PyCharm, Cursor, Google CoLab and Jupyter NoteBook
-- File and Folder Set Up
-- Basic Introduction of VS Code Editor Interface 
+Desktop Visual Studio Code Editor Set Up and Downloading Python
+
+Official Website: https://visualstudio.microsoft.com/
+
+Python Version
+
+Official Website:- 
+
+https://www.python.org/
+
+Python Official Documentation:-
+
+Official Website: https://docs.python.org/3/
+
+Leveraging Cloud resources such as PyCharm, Cursor, Google CoLab and Jupyter NoteBook
+
+File and Folder Set Up
+
+Basic Introduction of VS Code Editor Interface 
 
 **2. Git and GitHub:- **
 
