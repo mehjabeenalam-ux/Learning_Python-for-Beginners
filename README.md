@@ -201,7 +201,9 @@ Highly Recommended Websites for Tutorials and Mini Exercises:
 
 1. Programming with Mosh: https://www.youtube.com/watch?v=K5KVEU3aaeQ
 2. Tech with Tim: https://www.youtube.com/c/TechWithTim
-3. DataLumina: https://python.datalumina.com/ and 
+3. DataLumina: https://python.datalumina.com/
+4. PythonDude: https://www.youtube.com/@ThePythonDude/shorts
+5. Simplified by Singam: https://www.youtube.com/@simplifiedbysingam
 
 **Visual Tutorial:**
 
