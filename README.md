@@ -32,6 +32,10 @@ Official Website: https://docs.python.org/3/
 
 **1.6 Basic Introduction of VS Code Editor Interface**
 
+Follow this Python Tutorial by Datalumina for VS Code and Python Installation:
+
+https://python.datalumina.com/getting-started
+
 **2. Git and GitHub:-**
 
 - What is Git?
@@ -42,11 +46,16 @@ Official Website: https://docs.python.org/3/
 
 **Basic Python Concepts:-**
 
-**1. Basic Syntax and Rules**
+What is Python?
+
+https://python.datalumina.com/getting-started/what-is-python
+
+**1.1 Basic Syntax and Rules**
  - Indentation
- - Commenting out code documents two ways (# and CTRL + /)
+ - Commenting out code documents two ways (# and CTRL + /): https://python.datalumina.com/basics/comments
 
 **1.2. Variables**
+- Concept of Variables: https://python.datalumina.com/basics/variables
 - Conventions for naming Variables in Python
   
 **1.3 Data Types**
@@ -57,16 +66,26 @@ Official Website: https://docs.python.org/3/
  -- Complex Numbers
 
 - Identifying Data Type
-    
+
+Data Type Notes: https://python.datalumina.com/data-types
+
+**Numbers**: https://python.datalumina.com/data-types/numbers
+**Strings**: https://python.datalumina.com/data-types/strings
+**Boolean**: https://python.datalumina.com/data-types/booleans
+
 **1.4 Concatenation**
-  
+
+Resource Link: https://python.datalumina.com/data-types/strings
+
 **1.5 Type Casting**
   - Int to Float
   - Float to Integer
   - Int/Float to String
   - String to Int/Float
   - As Applicable
-    
+
+Type Casting of Data Types:- https://python.datalumina.com/data-types
+
 **1.6 User Inputs**
 
 **1.7 Formatted Strings**
@@ -176,7 +195,7 @@ Highly Recommended Websites for Tutorials and Mini Exercises:
 
 1. Programming with Mosh: https://www.youtube.com/watch?v=K5KVEU3aaeQ
 2. Tech with Tim: https://www.youtube.com/c/TechWithTim
-
+3. DataLumina: https://python.datalumina.com/ and 
 
 **Visual Tutorial:**
 
