@@ -20,13 +20,13 @@ Official Website: https://docs.python.org/3/
 
 **1.4 Leveraging Cloud resources such as PyCharm, Cursor, Google CoLab and Jupyter NoteBook**
 
-PyCharm:- https://www.jetbrains.com/pycharm/download/
+**PyCharm:-** https://www.jetbrains.com/pycharm/download/
 
-Cursor:- https://cursor.com/
+**Cursor:-** https://cursor.com/
 
-Google Colab:- https://colab.research.google.com/
+**Google Colab:-** https://colab.research.google.com/
 
-Jupyter NoteBook:- https://jupyter.org/
+**Jupyter NoteBook:-** https://jupyter.org/
 
 **1.5 File and Folder Set Up for the VS Code**
 
@@ -119,25 +119,34 @@ Jupyter NoteBook:- https://jupyter.org/
 **2.7 Exception Handling**
 
 **2.8 File Handling**
-
+- Read
+- Write
+- Append
+- Delete
+- Create
+  
 **2.9 Virtual Environment**
 
 **3. Advanced Python Concepts:-**
 
 3.1 API
 
-3.2 Web Frameworks
-
-3.3 Desktop Applications
-
-3.4 Data Structure and Algorithms
+**3.2 Web Frameworks**
+- Flask
+- Django
+- Flet
+  
+**3.3 Desktop Applications**
+- KTinker
+  
+**3.4 Data Structure and Algorithms**
 - Linear DSA
   - Linked Lists
   - 
 
 - Non Linear DSA
     
-3.5 Modules and Libraries
+**3.5 Modules and Libraries**
 - NumPy
 - Pandas
 - Seaborn
@@ -146,8 +155,9 @@ Jupyter NoteBook:- https://jupyter.org/
 - Request
 - Others
 
-3.6 Computer Vision and Object Detection
-
+**3.6 Computer Vision and Object Detection**
+- Open CV
+- YOLO (You Only Look Once)
 
 **Python Resources:**
 
