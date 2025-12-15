@@ -30,6 +30,8 @@ Official Website: https://docs.python.org/3/
 
 **1.5 File and Folder Set Up for the VS Code**
 
+Resource: https://python.datalumina.com/getting-started/vscode-workspace
+
 **1.6 Basic Introduction of VS Code Editor Interface**
 
 Follow this Python Tutorial by Datalumina for VS Code and Python Installation:
@@ -51,7 +53,7 @@ What is Python?
 https://python.datalumina.com/getting-started/what-is-python
 
 **1.1 Basic Syntax and Rules**
- - Indentation
+ - Indentation: https://python.datalumina.com/basics/python-syntax
  - Commenting out code documents two ways (# and CTRL + /): https://python.datalumina.com/basics/comments
 
 **1.2. Variables**
