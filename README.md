@@ -4,21 +4,21 @@ This Repository has been created to teach newbies about Python covering the foll
 
 **1. Starter Kits for Python:-**
 
-1.1 Desktop Visual Studio Code Editor Set Up and Downloading Python
+**1.1 Desktop Visual Studio Code Editor Set Up and Downloading Python**
 
 Official Website: https://visualstudio.microsoft.com/
 
-1.2 Python Version
+**1.2 Python Version**
 
 Official Website:- 
 
 https://www.python.org/
 
-1.3 Python Official Documentation:-
+**1.3 Python Official Documentation:-**
 
 Official Website: https://docs.python.org/3/
 
-1.4 Leveraging Cloud resources such as PyCharm, Cursor, Google CoLab and Jupyter NoteBook
+**1.4 Leveraging Cloud resources such as PyCharm, Cursor, Google CoLab and Jupyter NoteBook**
 
 PyCharm:- https://www.jetbrains.com/pycharm/download/
 
@@ -28,9 +28,9 @@ Google Colab:- https://colab.research.google.com/
 
 Jupyter NoteBook:- https://jupyter.org/
 
-1.5 File and Folder Set Up for the VS Code
+**1.5 File and Folder Set Up for the VS Code**
 
-1.6 Basic Introduction of VS Code Editor Interface 
+**1.6 Basic Introduction of VS Code Editor Interface**
 
 **2. Git and GitHub:-**
 
@@ -42,14 +42,14 @@ Jupyter NoteBook:- https://jupyter.org/
 
 **Basic Python Concepts:-**
 
-1. Basic Syntax and Rules
+**1. Basic Syntax and Rules**
  - Indentation
  - Commenting out code documents two ways (# and CTRL + /)
 
-1.2. Variables
+**1.2. Variables**
 - Conventions for naming Variables in Python
   
-1.3 Data Types
+**1.3 Data Types**
  -- Integer
  -- Float
  -- Boolean
@@ -58,20 +58,20 @@ Jupyter NoteBook:- https://jupyter.org/
 
 - Identifying Data Type
     
-1.4 Concatenation
+**1.4 Concatenation**
   
-1.5 Type Casting
+**1.5 Type Casting**
   - Int to Float
   - Float to Integer
   - Int/Float to String
   - String to Int/Float
   - As Applicable
     
-1.6 User Inputs
+**1.6 User Inputs**
 
-1.7 Formatted Strings
+**1.7 Formatted Strings**
 
-1.8 Operators
+**1.8 Operators**
   - Assignment Operators
   - Arithmetic Operators
   - Comparison Operators
@@ -80,26 +80,26 @@ Jupyter NoteBook:- https://jupyter.org/
 
 **2. Intermediate Python Concepts:-**
 
-2.1 Loops 
+**2.1 Loops **
 - For Loop
 - While Loop
     
-2.2 Conditional Statements
+**2.2 Conditional Statements**
 - If Statement
 -  Else-If
   
-2.3 Data Structures
+**2.3 Data Structures**
 - Lists
 - Sets
 - Tuples
 - Dictionaries
     
-2.4 Functions
+**2.4 Functions**
 - With Parameters
 - With Arguments
 - Nested Functions
     
-2.5 Advanced Functions
+**2.5 Advanced Functions**
 - Lambda Function
 - Recursive Function
 - Mapping
@@ -108,7 +108,7 @@ Jupyter NoteBook:- https://jupyter.org/
 - Strip
 - Zip
     
-2.6 Object Oriented Programming (OOP)
+**2.6 Object Oriented Programming (OOP)**
 - Object
 - Classes
 - Encapsulation
@@ -116,11 +116,11 @@ Jupyter NoteBook:- https://jupyter.org/
 - Polymorphism
 - Abstraction
     
-2.7 Exception Handling
+**2.7 Exception Handling**
 
-2.8 File Handling
+**2.8 File Handling**
 
-2.9 Virtual Environment
+**2.9 Virtual Environment**
 
 **3. Advanced Python Concepts:-**
 
@@ -162,7 +162,7 @@ Highly Recommended Websites for Tutorials and Mini Exercises:
 5. https://www.learnpython.org/
 6. https://www.programiz.com/python-programming
 
-YouTube Resources:-
+**YouTube Resources:-**
 
 1. Programming with Mosh: https://www.youtube.com/watch?v=K5KVEU3aaeQ
 2. Tech with Tim: https://www.youtube.com/c/TechWithTim
