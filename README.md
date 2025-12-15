@@ -71,10 +71,12 @@ https://python.datalumina.com/getting-started/what-is-python
 
 - Identifying Data Type
 
-Data Type Notes: https://python.datalumina.com/data-types
+**Data Type Notes**: https://python.datalumina.com/data-types
 
 **Numbers**: https://python.datalumina.com/data-types/numbers
+
 **Strings**: https://python.datalumina.com/data-types/strings
+
 **Boolean**: https://python.datalumina.com/data-types/booleans
 
 **1.4 Concatenation**
