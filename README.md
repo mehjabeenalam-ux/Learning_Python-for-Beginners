@@ -30,9 +30,9 @@ Jupyter NoteBook:- https://jupyter.org/
 
 1.5 File and Folder Set Up for the VS Code
 
-Basic Introduction of VS Code Editor Interface 
+1.6 Basic Introduction of VS Code Editor Interface 
 
-**2. Git and GitHub:- **
+****2. Git and GitHub:- ****
 
 - What is Git?
 - What is GitHub?
