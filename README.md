@@ -20,19 +20,19 @@ Git and GitHub:-
 
 Basic Python Concepts:-
 
-- Basic Syntax and Rules
+Basic Syntax and Rules
 - - Indentation
   - Commenting out code documents two ways (# and CTRL + /)
-  
-- Variables
+
+Variables
 - - Conventions for naming Variables in Python
   
 - Data Types
- - Integer
- - Float
- - Boolean
- - String
- - Complex Numbers
+ -- Integer
+ -- Float
+ -- Boolean
+ -- String
+ -- Complex Numbers
 
 - Identifying Data Type
     
