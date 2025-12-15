@@ -4,7 +4,7 @@ This Repository has been created to teach newbies about Python covering the foll
 
 Starter Kits for Python:-
 
-- Visual Studio Code Editor Set Up and Downloading Python
+- Desktop Visual Studio Code Editor Set Up and Downloading Python
 - Python Official Documentation
 - Leveraging Cloud resources such as PyCharm, Cursor, Google CoLab and Jupyter NoteBook
 - File and Folder Set Up
@@ -21,10 +21,29 @@ Git and GitHub:-
 Basic Python Concepts:-
 
 - Basic Syntax and Rules
+- - Indentation
+  -
 - Variables
-- Data Types (Integer, Float, Boolean, String, Complex Numbers)
+- - Conventions for naming Variables in Python
+  
+- Data Types
+ - Integer
+ - Float
+ - Boolean
+ - String
+ - Complex Numbers
+
+- Identifying Data Type
+    
 - Concatenation
+  
 - Type Casting
+  - Int to Float
+  - Float to Integer
+  - Int/Float to String
+  - String to Int/Float
+  - As Applicable
+    
 - User Inputs
 - Formatted Strings
 - Operators
