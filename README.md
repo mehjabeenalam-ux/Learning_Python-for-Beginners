@@ -198,6 +198,7 @@ Highly Recommended Websites for Tutorials and Mini Exercises:
 4. https://docs.python.org/3/tutorial/index.html (Official Python Website)
 5. https://www.learnpython.org/
 6. https://www.programiz.com/python-programming
+7. freeCodeCamp.com (****Highly Highly Recommended)
 
 **YouTube Resources:-**
 
@@ -206,6 +207,7 @@ Highly Recommended Websites for Tutorials and Mini Exercises:
 3. DataLumina: https://python.datalumina.com/
 4. PythonDude: https://www.youtube.com/@ThePythonDude/shorts
 5. Simplified by Singam: https://www.youtube.com/@simplifiedbysingam
+   
 
 **Visual Tutorial:**
 
