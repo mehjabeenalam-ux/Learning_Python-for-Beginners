@@ -48,9 +48,11 @@ https://python.datalumina.com/getting-started
 - Integrating desktop based and cloud based Code Editors with GitHub
 - Why is Git and GitHub important?
 
-**Basic Python Concepts:-**
+__________________________________________________________________________________________________________________________________________________________________________________________
 
-What is Python?
+**1 Basic Python Concepts:-**
+
+**What is Python?**
 
 https://python.datalumina.com/getting-started/what-is-python
 
