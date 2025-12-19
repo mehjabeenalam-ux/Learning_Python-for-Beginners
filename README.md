@@ -222,7 +222,8 @@ Highly Recommended Websites for Tutorials and Mini Exercises:
 
 **Competitive Programming:-**
 
-- Leetcode
+- Leetcode: https://leetcode.com/problemset/?language=Python
+- Kaggle: https://www.kaggle.com/
   
 
 
